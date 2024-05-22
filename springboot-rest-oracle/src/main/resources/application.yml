@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: springboot-rest-oracle
+  datasource:
+    username: system
+    password: nithiin8
+    url: jdbc:oracle:thin:@localhost:1521:ORCL
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+  jpa:
+    hibernate:
+      ddl-auto: update: 

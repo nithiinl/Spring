@@ -1,0 +1,749 @@
+!SESSION 2024-05-20 11:02:04.254 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data C:\Users\nlash\OneDrive\Desktop\Spring -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file C:\Users\nlash\OneDrive\Desktop\Spring\.metadata\.bak_0.log
+Created Time: 2024-05-20 11:02:32.801
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.802
+!MESSAGE Boot project ADDED: BootProj01-DependancyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.802
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.804
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.818
+!MESSAGE Boot project ADDED: BootProj02-DependancyInjection-StrategyDPLooseCoupling
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.819
+!MESSAGE Boot project ADDED: IOCProj01-Dependancy Injection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.821
+!MESSAGE Boot project ADDED: IOCProj02-Typesofinjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.824
+!MESSAGE Boot project ADDED: IOCProj05-StrategyDP-Spring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.836
+!MESSAGE Boot project ADDED: IOCProj06-StrategyDP-Spring-Maven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.847
+!MESSAGE Boot project ADDED: IOCProj08-DependancyInjection-SpringBean Scopes
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.858
+!MESSAGE Boot project ADDED: IOCProj09-PropertiesFiles-ValueAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.862
+!MESSAGE Boot project ADDED: IOCProj10-I18n
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.867
+!MESSAGE Boot project ADDED: IOCProjectMonthType
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.882
+!MESSAGE Boot project ADDED: SpringBoot-CRUD-MySql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.896
+!MESSAGE Boot project ADDED: SpringBoot-MVC-FormHandle-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.909
+!MESSAGE Boot project ADDED: SpringBoot-MySql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.923
+!MESSAGE Boot project ADDED: SpringBoot-OracleDB1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.937
+!MESSAGE Boot project ADDED: SpringBoot-OracleDB1-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.937
+!MESSAGE Boot project ADDED: rest-api
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.947
+!MESSAGE Boot project ADDED: rest-api-2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.958
+!MESSAGE Boot project ADDED: rest-api-22
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.972
+!MESSAGE Boot project ADDED: rest-api-3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.986
+!MESSAGE Boot project ADDED: rest-api-4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:32.999
+!MESSAGE Boot project ADDED: rest-api-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:33.014
+!MESSAGE Boot project ADDED: rest-api-testt1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:02:33.026
+!MESSAGE Boot project ADDED: rest-api-testt3
+!SESSION 2024-05-20 11:21:54.510 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data C:\Users\nlash\OneDrive\Desktop\Spring -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-05-20 11:21:55.465
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.ui 2 0 2024-05-20 11:21:57.023
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-05-20 11:21:57.023
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-05-20 11:21:57.540
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-05-20 11:21:57.540
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.e4.ui.css.swt.theme 4 0 2024-05-20 11:21:58.052
+!MESSAGE /css/gef_dark.css
+!STACK 0
+java.io.FileNotFoundException: /css/gef_dark.css
+	at org.eclipse.osgi.storage.url.bundleentry.Handler.findBundleEntry(Handler.java:55)
+	at org.eclipse.osgi.storage.url.BundleResourceHandler.openConnection(BundleResourceHandler.java:182)
+	at java.base/java.net.URL.openConnection(URL.java:1094)
+	at org.eclipse.osgi.storage.url.BundleURLConverter.resolve(BundleURLConverter.java:55)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:288)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.resolve(PlatformURLConverter.java:53)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:288)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:468)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:436)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:607)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1417)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1324)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1050)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.jface 2 0 2024-05-20 11:21:58.401
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-20 11:21:58.401
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-20 11:22:01.936
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\eclipse\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes;C:\eclipse\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\eclipse\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/nlash/OneDrive/Desktop/Spring/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1716184321934
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:01.937
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-20 11:22:01.951
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 6788
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-20 11:22:03.075
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nlash'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.187
+!MESSAGE Boot project ADDED: BootProj01-DependancyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.187
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.189
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.192
+!MESSAGE Boot project ADDED: BootProj02-DependancyInjection-StrategyDPLooseCoupling
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.193
+!MESSAGE Boot project ADDED: IOCProj01-Dependancy Injection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.195
+!MESSAGE Boot project ADDED: IOCProj02-Typesofinjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.197
+!MESSAGE Boot project ADDED: IOCProj05-StrategyDP-Spring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.224
+!MESSAGE Boot project ADDED: IOCProj06-StrategyDP-Spring-Maven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.227
+!MESSAGE Boot project ADDED: IOCProj08-DependancyInjection-SpringBean Scopes
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.230
+!MESSAGE Boot project ADDED: IOCProj09-PropertiesFiles-ValueAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.235
+!MESSAGE Boot project ADDED: IOCProj10-I18n
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.238
+!MESSAGE Boot project ADDED: IOCProjectMonthType
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.239
+!MESSAGE Boot project ADDED: SpringBoot-CRUD-MySql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.242
+!MESSAGE Boot project ADDED: SpringBoot-MVC-FormHandle-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.246
+!MESSAGE Boot project ADDED: SpringBoot-MySql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.252
+!MESSAGE Boot project ADDED: SpringBoot-OracleDB1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.256
+!MESSAGE Boot project ADDED: SpringBoot-OracleDB1-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.258
+!MESSAGE Boot project ADDED: rest-api
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.262
+!MESSAGE Boot project ADDED: rest-api-2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.266
+!MESSAGE Boot project ADDED: rest-api-22
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.270
+!MESSAGE Boot project ADDED: rest-api-3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.274
+!MESSAGE Boot project ADDED: rest-api-4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.279
+!MESSAGE Boot project ADDED: rest-api-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.282
+!MESSAGE Boot project ADDED: rest-api-testt1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:22:03.286
+!MESSAGE Boot project ADDED: rest-api-testt3
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-05-20 11:22:12.951
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-05-20 11:22:12.952
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-05-20 11:22:12.957
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-05-20 11:22:12.958
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-05-20 11:22:12.972
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-05-20 11:22:12.979
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.jface 2 0 2024-05-20 11:22:13.246
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-20 11:22:13.246
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.toggleLineCommentCommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.tm4e.languageconfiguration.toggleLineCommentCommand"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		WorkbenchHandlerServiceHandler("org.springframework.tooling.boot.ls.ToggleComment"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-05-20 11:22:15.269
+!MESSAGE Could not get hover region due to timeout after 1000 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverRegion(LSPTextHover.java:155)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverRegion(CompositeTextHover.java:101)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:128)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-05-20 11:22:15.399
+!MESSAGE InterruptedException
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverInfo(LSPTextHover.java:76)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverInfo2(CompositeTextHover.java:60)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2024-05-20 11:42:42.802 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-05-20 11:42:43.685
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.ui 2 0 2024-05-20 11:42:53.216
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-05-20 11:42:53.216
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-05-20 11:42:53.763
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-05-20 11:42:53.763
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.e4.ui.css.swt.theme 4 0 2024-05-20 11:42:54.288
+!MESSAGE /css/gef_dark.css
+!STACK 0
+java.io.FileNotFoundException: /css/gef_dark.css
+	at org.eclipse.osgi.storage.url.bundleentry.Handler.findBundleEntry(Handler.java:55)
+	at org.eclipse.osgi.storage.url.BundleResourceHandler.openConnection(BundleResourceHandler.java:182)
+	at java.base/java.net.URL.openConnection(URL.java:1094)
+	at org.eclipse.osgi.storage.url.BundleURLConverter.resolve(BundleURLConverter.java:55)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:288)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.resolve(PlatformURLConverter.java:53)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:288)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:468)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:436)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:607)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1417)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1324)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1050)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.jface 2 0 2024-05-20 11:42:54.584
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-20 11:42:54.584
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-20 11:42:57.183
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nlash'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.458
+!MESSAGE Boot project ADDED: BootProj01-DependancyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.459
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.500
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.501
+!MESSAGE Boot project ADDED: BootProj02-DependancyInjection-StrategyDPLooseCoupling
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.501
+!MESSAGE Boot project ADDED: IOCProj01-Dependancy Injection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.502
+!MESSAGE Boot project ADDED: IOCProj02-Typesofinjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.503
+!MESSAGE Boot project ADDED: IOCProj05-StrategyDP-Spring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.504
+!MESSAGE Boot project ADDED: IOCProj06-StrategyDP-Spring-Maven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.504
+!MESSAGE Boot project ADDED: IOCProj08-DependancyInjection-SpringBean Scopes
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.505
+!MESSAGE Boot project ADDED: IOCProj09-PropertiesFiles-ValueAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.505
+!MESSAGE Boot project ADDED: IOCProj10-I18n
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.506
+!MESSAGE Boot project ADDED: IOCProjectMonthType
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.511
+!MESSAGE Boot project ADDED: SpringBoot-CRUD-MySql
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-20 11:42:57.515
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\eclipse\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes;C:\eclipse\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\eclipse\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/nlash/OneDrive/Desktop/Spring/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1716185577509
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.516
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.520
+!MESSAGE Boot project ADDED: SpringBoot-MVC-FormHandle-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.524
+!MESSAGE Boot project ADDED: SpringBoot-MySql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.529
+!MESSAGE Boot project ADDED: SpringBoot-OracleDB1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.534
+!MESSAGE Boot project ADDED: SpringBoot-OracleDB1-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.534
+!MESSAGE Boot project ADDED: rest-api
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.535
+!MESSAGE Boot project ADDED: rest-api-2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.536
+!MESSAGE Boot project ADDED: rest-api-22
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.536
+!MESSAGE Boot project ADDED: rest-api-3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.537
+!MESSAGE Boot project ADDED: rest-api-4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.538
+!MESSAGE Boot project ADDED: rest-api-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.539
+!MESSAGE Boot project ADDED: rest-api-testt1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 11:42:57.540
+!MESSAGE Boot project ADDED: rest-api-testt3
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-20 11:42:57.554
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 500
+
+!ENTRY org.eclipse.jface 2 0 2024-05-20 11:59:36.591
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-20 11:59:36.591
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.toggleLineCommentCommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.tm4e.languageconfiguration.toggleLineCommentCommand"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		WorkbenchHandlerServiceHandler("org.springframework.tooling.boot.ls.ToggleComment"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+!SESSION 2024-05-20 20:14:29.546 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-05-20 20:14:31.860
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.ui 2 0 2024-05-20 20:14:37.495
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-05-20 20:14:37.495
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-05-20 20:15:02.191
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-05-20 20:15:02.191
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.e4.ui.css.swt.theme 4 0 2024-05-20 20:15:04.946
+!MESSAGE /css/gef_dark.css
+!STACK 0
+java.io.FileNotFoundException: /css/gef_dark.css
+	at org.eclipse.osgi.storage.url.bundleentry.Handler.findBundleEntry(Handler.java:55)
+	at org.eclipse.osgi.storage.url.BundleResourceHandler.openConnection(BundleResourceHandler.java:182)
+	at java.base/java.net.URL.openConnection(URL.java:1094)
+	at org.eclipse.osgi.storage.url.BundleURLConverter.resolve(BundleURLConverter.java:55)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:288)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.resolve(PlatformURLConverter.java:53)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:288)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:468)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:436)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:607)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1417)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1324)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1050)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.jface 2 0 2024-05-20 20:15:06.147
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-20 20:15:06.147
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-20 20:15:15.699
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nlash'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.132
+!MESSAGE Boot project ADDED: BootProj01-DependancyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.132
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.290
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.290
+!MESSAGE Boot project ADDED: BootProj02-DependancyInjection-StrategyDPLooseCoupling
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.290
+!MESSAGE Boot project ADDED: IOCProj01-Dependancy Injection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.290
+!MESSAGE Boot project ADDED: IOCProj02-Typesofinjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.306
+!MESSAGE Boot project ADDED: IOCProj05-StrategyDP-Spring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.306
+!MESSAGE Boot project ADDED: IOCProj06-StrategyDP-Spring-Maven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.306
+!MESSAGE Boot project ADDED: IOCProj08-DependancyInjection-SpringBean Scopes
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.306
+!MESSAGE Boot project ADDED: IOCProj09-PropertiesFiles-ValueAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.306
+!MESSAGE Boot project ADDED: IOCProj10-I18n
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.306
+!MESSAGE Boot project ADDED: IOCProjectMonthType
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.306
+!MESSAGE Boot project ADDED: SpringBoot-CRUD-MySql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.306
+!MESSAGE Boot project ADDED: SpringBoot-MVC-FormHandle-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.306
+!MESSAGE Boot project ADDED: SpringBoot-MySql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.306
+!MESSAGE Boot project ADDED: SpringBoot-OracleDB1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.306
+!MESSAGE Boot project ADDED: SpringBoot-OracleDB1-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.306
+!MESSAGE Boot project ADDED: rest-api
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.321
+!MESSAGE Boot project ADDED: rest-api-2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.321
+!MESSAGE Boot project ADDED: rest-api-22
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.321
+!MESSAGE Boot project ADDED: rest-api-3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.321
+!MESSAGE Boot project ADDED: rest-api-4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.321
+!MESSAGE Boot project ADDED: rest-api-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.326
+!MESSAGE Boot project ADDED: rest-api-testt1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.326
+!MESSAGE Boot project ADDED: rest-api-testt3
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-20 20:15:17.369
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\eclipse\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes;C:\eclipse\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\eclipse\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/nlash/OneDrive/Desktop/Spring/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1716216317363
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-20 20:15:17.369
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-20 20:15:17.401
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 3680

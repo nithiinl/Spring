@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=BootProj02-DependancyInjection-StrategyDPLooseCoupling/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nit.sbeans{IPayment.java[IPayment" modifiers="513" timestamp="1714120718419"/>
+    <typeInfo handle="=SpringBoot-OracleDB1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nit.service{CourseService.java[CourseService" modifiers="513" timestamp="1714719432972"/>
+    <typeInfo handle="=SpringBoot-OracleDB1-1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nit.service{IEmployeeMgmtService.java[IEmployeeMgmtService" modifiers="513" timestamp="1714730551715"/>
+    <typeInfo handle="=SpringBoot-CRUD-MySql/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nit.service{CourseService.java[CourseService" modifiers="513" timestamp="1714835518615"/>
+</typeInfoHistroy>
